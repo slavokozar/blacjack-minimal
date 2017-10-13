@@ -24,3 +24,12 @@ The ``data`` attribute of every tag can be easily read by jQuery.
 var value = $('.card').data('value');
 var suite = $('.card').data('suite');
 ```
+
+To read all values and suites sue **.each()** function:
+
+```javascript
+$('.card').each(function(){
+   var value = $('.card').data('value');
+   var suite = $('.card').data('suite'); 
+});
+```
