@@ -33,3 +33,7 @@ $('.card').each(function(){
    var suite = $('.card').data('suite'); 
 });
 ```
+
+
+##How to play BlackJack?
+https://www.youtube.com/watch?v=idB-7FUaC-g&t=248s
