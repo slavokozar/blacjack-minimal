@@ -35,5 +35,5 @@ $('.card').each(function(){
 ```
 
 
-##How to play BlackJack?
+## How to play BlackJack?
 https://www.youtube.com/watch?v=idB-7FUaC-g&t=248s
